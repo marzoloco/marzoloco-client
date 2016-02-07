@@ -1,6 +1,6 @@
 # Nouns
 
-* Sport
+* Sport  
 	Type of game. Each pool will be limited to a certain type of sport.
 * Game
 	A singular sporting contest. Can have multiple bets on it.

@@ -5,7 +5,7 @@
 * Game  
 	A singular sporting contest. Can have multiple bets on it.
 * Side  
-	A specific prediction about a bet
+	A specific prediction about a bet, it has a name [like over, under, favorite, or underdog]
 * Line  
 	The difference between the two sides that makes the odds what they are.
 * Board  
@@ -36,7 +36,7 @@
 	A user that participates in a pool.
 * Pool  
 	A group of players competing to win the most points over a certain amount of days or rounds.
-* Over/Under  
+* Total [ie, over/under]
 	The expected combination of points of the two sides of a game.
 * Money Line  
 	The odds associated with choosing a team to win a game, there is no line or spread.
